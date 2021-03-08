@@ -115,8 +115,7 @@ Download_Server_Status_server() {
 }
 Download_Server_Status_client() {
   cd "/tmp" || exit 1
-  wget -N --no-check-certificate "https://raw.githubusercontent.com/foreshadowe/server-status/main/clients/status-client.py
-"
+  wget -N --no-check-certificate "https://raw.githubusercontent.com/foreshadowe/server-status/main/clients/status-client.py"
   [[ ! -e "status-client.py" ]] && echo -e "${Error} ServerStatus 客户端下载失败 !" && exit 1
   cd "${file_1}" || exit 1
   [[ ! -e "${file}" ]] && mkdir "${file}"
