@@ -1,3 +1,4 @@
+# client port 49370
 # Important!
 从项目 https://github.com/CokeMine/ServerStatus-Hotaru 的历史版本中更改而来,并对界面做了简化处理。  
 Fork from https://github.com/CokeMine/ServerStatus-Hotaru, and made a simplify.  
