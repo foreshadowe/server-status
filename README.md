@@ -12,8 +12,7 @@ Please visit ServerStatus(CokeMine)
 服务端：
 
 ```bash
-wget https://raw.githubusercontent.com/foreshadowe/server-status/main/status.sh
-bash status.sh s
+wget https://raw.githubusercontent.com/foreshadowe/server-status/main/status.sh && bash status.sh s
 ```
 
 客户端：
