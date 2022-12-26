@@ -1,8 +1,9 @@
 # client port 49370
-# main port 3390
-# oracle port 3391
-# others port 3400
-# Important!
+main port 3390  
+oracle port 3391  
+others port 3400  
+  
+Important!
 从项目 https://github.com/CokeMine/ServerStatus-Hotaru 的历史版本中更改而来,并对界面做了简化处理。  
 Fork from https://github.com/CokeMine/ServerStatus-Hotaru, and made a simplify.  
 请移步CokeMine ServerStatus项目  
